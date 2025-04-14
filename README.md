@@ -27,6 +27,7 @@ e) Stock analysis to determine remaining quantities after fulfilling orders.
 - Identified top customers based on spending and frequently ordered books.
 
 **Acknowledgments**
+
 A special thanks to **Satish Dhawale** for his crystal clear explanations and for providing such an incredibly comprehensive project. His guidance was invaluable in my learning process.
 
 #SQL #DataAnalysis #Database #BookStore #GitHub #OpenSource #LearningByDoing #ProjectShowcase
